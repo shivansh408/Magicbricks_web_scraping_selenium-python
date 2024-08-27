@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import pandas as pd
 
-# Install Chrome driver before running the code
+# Install Browser driver before running the code
 driver = webdriver.Firefox()
 
 # Url on which web scraping has to be done
